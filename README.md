@@ -6,17 +6,24 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-41454A?logo=python&logoColor=3776AB" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-41454A?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-41454A?logo=html5&logoColor=E34F26" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-41454A?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-41454A?logo=bootstrap&logoColor=7952B3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-41454A?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-41454A?logo=github&logoColor=181717" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-41454A?logo=git&logoColor=ef391a" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-41454A?logo=github&logoColor=181717" alt="github logo" title="github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-41454A?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Canva-41454A?logo=canva&logoColor=7300e6" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-41454A?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Discord-41454A?logo=Discord&logoColor=5865F2" alt="Discord logo" title="Discord" height="25" /></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -30,8 +37,6 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nntruong1907&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-
 
 <br>
 
