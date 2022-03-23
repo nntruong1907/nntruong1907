@@ -50,8 +50,8 @@
   <a href="https://www.linkedin.com/in/nntruong1907/" target="blank">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="nntruong1907-linkedin" />
   </a>
-  <a href="https://www.instagram.com/nntruong1907/" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="nntruong1907-instagram" />
+  <a href="https://www.instagram.com/__nntruong/" target="blank">
+    <img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="__nntruong-instagram" />
   </a>
   <a href="mailto:itnntruong@gmail.com" target="top">
     <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" alt="nntruong1907-email"
