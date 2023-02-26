@@ -46,7 +46,7 @@
 </div>
 
 <div align="center" width="50">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=nntruong1907&label=Profile%20views&color=0e75b6&style=flat" alt="nntruong1907" /> </p>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nntruong1907&label=Profile%20views&color=0e75b6&style=flat" alt="nntruong1907" /> </p>
