@@ -30,7 +30,7 @@
   <h2 align="center">👽 Where to find me 👽</h2>
   <!-- https://icons8.com -->
   <div align="center">
-    <a href="https://www.facebook.com/nntruong1907" target="blank">
+    <a href="https://www.facebook.com/nntruong.it" target="blank">
       <img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="nntruong1907-facebook" />
     </a>
     <a href="https://www.linkedin.com/in/nntruong1907/" target="blank">
